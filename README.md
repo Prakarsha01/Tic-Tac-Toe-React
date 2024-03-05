@@ -27,22 +27,14 @@ This project is a simple implementation of the classic game Tic-Tac-Toe using Re
 - **index.css:** Contains styles for the entire application, including fonts, colors, and animations.
 - **Index.jsx:** Entry point of the application where the `App` component is rendered into the DOM.
 
-
-## Technologies Used
-
-- React: A JavaScript library for building user interfaces.
-- useState Hook: Used for managing state within functional components.
-- JSX: A syntax extension for JavaScript used with React to describe the UI components.
-- CSS: Stylesheets to enhance the visual appearance of the game.
-
 ## Getting Started
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
 4. Start the development server using `npm run dev`.
-5. Open your web browser and go to  the provided localhost address to view the game.
+5. Open your web browser and go to  the provided localhost address to play the game.
 
 ## Acknowledgments
 
-This project is part of the ["React - The Complete Guide 2024 (incl. React Router & Redux)"](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) course on Udemy, which provides comprehensive training on React and its ecosystem. Special thanks to the course instructors for the guidance and inspiration.
+This project is part of the ["React - The Complete Guide 2024 (incl. React Router & Redux)"](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) course on Udemy, which provides comprehensive training on React and its ecosystem. Special thanks to the course instructor for the guidance and inspiration.
